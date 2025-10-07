@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/>
+  <img src="https://github.com/Eyad-Dawood/Eyad-Dawood/blob/main/hello-coders-optimized.gif?raw=true" alt="Hello Coders" width="60%"/>
   <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
+  <img src="https://github.com/Eyad-Dawood/Eyad-Dawood/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
   <br>
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=EyadDev&style=flat&color=orange&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Eyad-Dawood&style=flat&color=orange&label=PROFILE+VIEWS)
   [![telegram badge](https://img.shields.io/badge/@EyadDev-grey?style=flat&logo=telegram)](https://t.me/EyadDev)
 </div>
 
@@ -39,15 +39,15 @@
 
 <div align="center">
 
-  <a href="https://github.com/EyadDev">
-    <img src="https://github-readme-stats.vercel.app/api?username=EyadDev&show_icons=true&count_private=true&theme=tokyonight" width="32%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EyadDev&layout=compact&theme=tokyonight" width="32%">
-    <img src="https://streak-stats.demolab.com?user=EyadDev&theme=tokyonight&hide_border=true&border_radius=5" width="32%">
+  <a href="https://github.com/Eyad-Dawood">
+    <img src="https://github-readme-stats.vercel.app/api?username=Eyad-Dawood&show_icons=true&count_private=true&theme=tokyonight" width="32%">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyad-Dawood&layout=compact&theme=tokyonight" width="32%">
+    <img src="https://streak-stats.demolab.com?user=Eyad-Dawood&theme=tokyonight&hide_border=true&border_radius=5" width="32%">
   </a>
 
   <details>
     <summary>More stats</summary>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=EyadDev&theme=tokyonight" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eyad-Dawood&theme=tokyonight" />
   </details>
 
   <hr>
