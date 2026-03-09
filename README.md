@@ -1,61 +1,123 @@
-<div align="center">
-  <img src="https://github.com/Eyad-Dawood/Eyad-Dawood/blob/main/hello-coders-optimized.gif?raw=true" alt="Hello Coders" width="60%"/>
-  <br>
-  <img src="https://github.com/Eyad-Dawood/Eyad-Dawood/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/>
-  <br>
+# Eyad Dawood
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=Eyad-Dawood&style=flat&color=orange&label=PROFILE+VIEWS)
-  [![telegram badge](https://img.shields.io/badge/@EyadDev-grey?style=flat&logo=telegram)](https://t.me/EyadDev)
-</div>
+.NET Backend Developer focused on building REST APIs and Windows desktop applications using C# and SQL Server.
 
 ---
 
-### 👋 Hey, I'm **Eyad**
+## Tech Stack
 
-- 💻 Focused on building **C# WinForms** applications  
-- ⚙️ Exploring **.NET**, UI logic, and data systems  
-- 🧠 Enjoy learning and improving code structure  
-- 💬 Ask me about **tech, boxing, or productivity tools**  
-- ⚡ Fun fact: I debug better with coffee ☕
+**Languages**
 
----
+C#  
+C++  
+SQL  
+T-SQL  
 
-### 🧰 Tools I Use
+**Frameworks**
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![WinForms](https://img.shields.io/badge/Windows_Forms-0078D6?style=flat&logo=windows&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=database&logoColor=white)
-![Git](https://img.shields.io/badge/Git-E44C30?style=flat&logo=git&logoColor=white)
+.NET Core  
+ASP.NET  
+
+**Database**
+
+SQL Server
 
 ---
 
-### 🧩 Projects  
-> _Coming soon..._ 🚧
+## Tools
+
+Docker  
+Git  
+SSMS (SQL Server Management Studio)  
+Visual Studio  
+
+**Environment**
+
+Windows
 
 ---
 
-<div align="center">
+## Projects
 
-  <a href="https://github.com/Eyad-Dawood">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eyad-Dawood&show_icons=true&count_private=true&theme=tokyonight" width="32%">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eyad-Dawood&layout=compact&theme=tokyonight" width="32%">
-    <img src="https://streak-stats.demolab.com?user=Eyad-Dawood&theme=tokyonight&hide_border=true&border_radius=5" width="32%">
-  </a>
+### Inventory Sales Management System
 
-  <details>
-    <summary>More stats</summary>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Eyad-Dawood&theme=tokyonight" />
-  </details>
+Desktop application for managing a paint store using an open invoice system.
 
-  <hr>
+**Stack**
 
-  **Code Cycle**  
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Relieved%20Face.png" width="10%" alt="It's working!"/> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/>
-</div>
+.NET 9.0 (C#)  
+Windows Forms  
+Entity Framework Core  
+SQL Server  
+
+**Architecture**
+
+N-Tier Architecture  
+Repository Pattern  
+Unit of Work  
+DTO Pattern  
+
+Repository  
+https://github.com/Eyad-Dawood/Inventrory-Sales-Management-System
+
+---
+
+### MyValidationLibrary
+
+Validation library built using reflection to perform dynamic validation with support for nested object validation.
+
+Purpose of the project was understanding and experimenting with reflection in .NET.
+
+**Stack**
+
+.NET Framework  
+C#
+
+Repository  
+https://github.com/Eyad-Dawood/MyValidationLibrary
+
+---
+
+
+### Mechanic Shop (Full Stack)
+
+Workshop management system built as a tutorial project to learn Clean Architecture and full project structure.
+
+**Stack**
+
+ASP.NET  
+Entity Framework Core  
+SQL Server  
+REST API  
+
+Repository  
+https://github.com/Eyad-Dawood/MechanicShop-Full-Stack
+
+
+---
+
+
+### 3Tier Code Generator
+
+Windows application that generates Data Access Layer and Business Logic Layer code dynamically.
+
+The application reads a database schema and allows the user to select tables and columns to generate code for.
+
+**Stack**
+
+.NET Framework  
+WinForms  
+SQL Server
+
+Repository  
+https://github.com/Eyad-Dawood/3Tier-Code-Generator-CSharp-WinForms
+
+---
+
+## Contact
+
+Email  
+eyad.dawood.dev@gmail.com
+
+LinkedIn  
+https://linkedin.com/in/eyad-dawood-845719388
