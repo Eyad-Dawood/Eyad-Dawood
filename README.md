@@ -17,6 +17,7 @@ T-SQL
 
 .NET Core  
 ASP.NET  
+Entity Framework
 
 **Database**
 
