@@ -1,4 +1,4 @@
-# Eyad Reda 
+# إياد رضا
 
 .NET Backend Developer focused on building REST APIs and Windows desktop applications using C# and SQL Server.
 
