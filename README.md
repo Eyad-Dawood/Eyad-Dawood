@@ -1,4 +1,4 @@
-# إياد رضا
+# Eyad Dawood
 
 .NET Backend Developer focused on building REST APIs and Windows desktop applications using C# and SQL Server.
 
